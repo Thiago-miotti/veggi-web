@@ -1,0 +1,17 @@
+.tasks-container{
+    margin-left: 250px;
+    padding: 40px;
+}
+
+.tasks-header{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 699px) {
+    .tasks-container{
+        margin-left: 0;
+        padding: 10px;
+    }
+}

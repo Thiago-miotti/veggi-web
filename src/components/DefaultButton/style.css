@@ -1,0 +1,13 @@
+.btt-container{
+    background-color: var(--color-primary);
+    color: #fff;
+    border: none;
+    border-radius: 10px ;
+    font-family: var(--default-font);
+    padding: 10px;
+    
+
+    box-shadow: 7px 7px 15px -10px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 7px 7px 15px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 7px 15px -10px rgba(0,0,0,0.75);
+}   
